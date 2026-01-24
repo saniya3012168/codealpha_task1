@@ -17,4 +17,11 @@ The goal is to analyze datasets and present them using clear and informative vis
 - Matplotlib
 - Seaborn
 
-
+## 📁 Project Structure
+codealpha_task1/
+│
+├── .gitignore               # Git ignore rules
+├── Data Visualization.py    # Main Python script for data visualization
+├── ai_jobs.csv              # Dataset used for analysis and visualization
+├── requirements.txt         # Required Python libraries
+└── README.md                # Project documentation
